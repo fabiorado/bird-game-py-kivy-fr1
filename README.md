@@ -5,6 +5,9 @@
 
 > First game in python using Kify and compiled to Android
 
+Source from [Dirk Sandberg GitHub](https://github.com/Dirk-Sandberg/2DKivyGame) video lesson.
+
+
 ## Requirements
 
 I used WSL2 with Ubuntu 22.04 to develop. 
